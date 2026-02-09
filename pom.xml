@@ -6,7 +6,7 @@
   <artifactId>resume-analyser</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>resume-analyser</name>
-  <description>AI Resume Analyzer & Job Match API</description>
+  <description>AI Resume Analyzer &amp; Job Match API</description>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
